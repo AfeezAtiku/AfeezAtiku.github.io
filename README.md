@@ -80,8 +80,6 @@ Innovative and results-driven IT professional with 10+ years of experience bridg
 
 ---
 
->
-</p>
 
 <!-- Pin your best repos below -->
 <!--
