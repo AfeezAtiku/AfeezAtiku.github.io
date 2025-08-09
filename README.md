@@ -74,9 +74,9 @@ Innovative and results-driven IT professional with 10+ years of experience bridg
 
 ---
 ## 🌐 My Portfolio
-Check out my live portfolio here: [https://AfeezAtiku.github.io](https://Cloud-Architecture-Projects)  
+Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://Cloud-Architecture-Projects)  
 
-**Repository:** [AfeezAtiku.github.io](https://github.com/AfeezAtiku/Cloud-Architecture-Projects)
+**Repository:** [Cloud-Architecture-Projects](https://github.com/AfeezAtiku/Cloud-Architecture-Projects)
 ---
 
 ## 🎤 Speaking & Thought Leadership
