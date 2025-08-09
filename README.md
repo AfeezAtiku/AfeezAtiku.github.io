@@ -87,8 +87,6 @@ Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://
 
 - Webinars, conference talks, and internal training sessions on cloud migration, SAM, and enterprise IT transformation.
 
----
-
 
 
 *Let's connect and collaborate on impactful technology solutions!*
