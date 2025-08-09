@@ -78,10 +78,8 @@ Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://
 
 **Repository:** [Cloud-Architecture-Projects](https://github.com/AfeezAtiku/Cloud-Architecture-Projects)
 ---
-**Releases:** [sha256:6fbee898c51be3012bcb0f8b819a952177731569ca6d89606e1ddb5669a77528]
----
 <video controls width="720">
-  <source src="sha256:6fbee898c51be3012bcb0f8b819a952177731569ca6d89606e1ddb5669a77528" type="video/mp4">
+  <source src="" type="video/mp4">
 </video>
 ---
 
