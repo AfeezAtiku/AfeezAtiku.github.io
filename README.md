@@ -80,6 +80,10 @@ Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://
 ---
 **Releases:** [sha256:6fbee898c51be3012bcb0f8b819a952177731569ca6d89606e1ddb5669a77528]
 ---
+<video controls width="720">
+  <source src="sha256:6fbee898c51be3012bcb0f8b819a952177731569ca6d89606e1ddb5669a77528" type="video/mp4">
+</video>
+---
 
 ## 🎤 Speaking & Thought Leadership
 
