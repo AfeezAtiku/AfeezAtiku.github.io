@@ -80,12 +80,7 @@ Innovative and results-driven IT professional with 10+ years of experience bridg
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- GitHub Stats Section -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight" alt="Afeez's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight" alt="Top languages" />
+>
 </p>
 
 <!-- Pin your best repos below -->
