@@ -81,7 +81,7 @@
   </section>
 
   <footer>
-    <small>© <span id="year"></span> Afeez Atiku. Built with ❤️ using PicoCSS.</small>
+    <small>© <span id="year"></span> Afeez Atiku. Built using PicoCSS.</small>
   </footer>
 </main>
 <script>
