@@ -81,7 +81,7 @@ Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://
 <video controls width="720">
   <source src="" type="video/mp4">
 </video>
----
+
 
 ## 🎤 Speaking & Thought Leadership
 
