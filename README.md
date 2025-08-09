@@ -82,8 +82,8 @@ Check out my live portfolio here: [https://Cloud-Architecture-Projects](https://
 **Repository:** [Cloud-Architecture-Projects](https://github.com/AfeezAtiku/Cloud-Architecture-Projects)
 
 ---
-[Watch the Release Video](https://github.com/your-username/your-repo/releases/download/v1.0.0/demo.mp4)
-
+[Watch the Release Video](https://github.com/your-username/afeezatiku.github.io/releases/download/v1.0.0/demo.mp4)
+---
 
 ## 🎤 Speaking & Thought Leadership
 
