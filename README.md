@@ -73,6 +73,11 @@ Innovative and results-driven IT professional with 10+ years of experience bridg
 | Cloud Migration @ Nutrien       | Migrated 200+ apps; cut infra costs by 30%; improved uptime to 99.9%   |
 
 ---
+## 🌐 My Portfolio
+Check out my live portfolio here: [https://AfeezAtiku.github.io](https://AfeezAtiku.github.io)  
+
+**Repository:** [AfeezAtiku.github.io](https://github.com/AfeezAtiku/AfeezAtiku.github.io)
+---
 
 ## 🎤 Speaking & Thought Leadership
 
